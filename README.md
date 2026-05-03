@@ -1,4 +1,4 @@
-# Hi, tui là {Tên/Nickname} :)
+# Hi, tui là Lại Văn Sâm :)
 
 > {A 15-year-old Full-stack Developer & Security Enthusiast from Vietnam}
 
