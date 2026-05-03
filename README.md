@@ -1,31 +1,42 @@
-# Hi, tui là Lại Văn Sâm :)
+# Hi, tui là Lại Văn Sâm (NONE) 👋
 
-> {A 15-year-old Full-stack Developer & Security Enthusiast from Vietnam}
-
-## Về tui
-- 🎯 Hiện tại: {Đang học backend, cybersecurity, an ninh mạng, ...}
-- 💻 Quan tâm: {Web / Linux / Security / AI / Game / ...}
-- 📚 Mục tiêu 2026: {Làm được 1 web có tính bảo mật cao}
-- 🧠 Tính cách học: {thích làm project nhỏ, học từ lỗi sai, kỷ luật...}
-- 🌱 Đang học: {Python, C++, Git, Ubuntu, Backend, Github, ...}
-
-## Kỹ năng / Công nghệ
-**Ngôn ngữ:** {Python / C++ / JavaScript / Lua /...}  
-**Công cụ:** {Git, Linux (Ubuntu, Kali), VS Code, ...}  
-**Khác:** {SQL, Docker, Arduino, Mongodb, ...}
-
-## Dự án nổi bật
-- 🔥 **{learnpythonserver-sm}** — {Dự án học tập về cấu trúc web, có chức năng upload file, xem file, xem html 1 cách cơ bản.}  
-  Link: {https://github.com/gemini-dot/learnpythonserver-sm}
-- ⚡ **{DropVault}** — {Kế thừa từ dự án learnpythonserver-sm nhưng hướng về các tính năng bảo mật, cải thiện hiệu suất web.}  
-  Link: {https://github.com/gemini-dot/DropVault}
-
-## Liên hệ
-- Email: {samvasang1192011@gmail.com}
-- Facebook/Zalo: {https://www.facebook.com/cu.sam.801505}
-- Website/Blog: {None}
+> **A 15-year-old Full-stack Developer & Security Enthusiast from Vietnam**
+> *"Làm tốt không phải để khoe, làm tốt là để học."*
 
 ---
 
-### Ghi chú nhỏ
-- Viết ít thôi nhưng thật, nhìn sẽ “chất” hơn.
+### 🎯 Định hướng & Mục tiêu
+- 🛡️ **Hiện tại:** Tập trung chuyên sâu vào **Backend Development** và **Cybersecurity**.
+- 🚀 **Mục tiêu 2026:** Hoàn thiện hệ sinh thái web có tính bảo mật cao và ứng dụng thực tế mạnh mẽ.
+- 🐧 **Hệ điều hành:** Đang sử dụng **Ubuntu** cho mọi hoạt động lập trình và quản lý server.
+- 🧠 **Phong cách:** Học qua dự án thực tế (Project-based learning), kỷ luật và tối ưu hóa từ lỗi sai.
+
+---
+
+### 💻 Kỹ năng & Công nghệ
+
+| Lĩnh vực | Công nghệ / Công cụ |
+| :--- | :--- |
+| **Ngôn ngữ** | `Python`, `C++`, `JavaScript`, `Lua` |
+| **Backend** | `Flask`, `Node.js`, `SQL`, `MongoDB` |
+| **Security** | `Metasploit`, `Nmap`, `Kali Linux` |
+| **Công cụ** | `Git`, `Docker`, `VS Code`, `Arduino` |
+
+---
+
+### ⚡ Dự án nổi bật
+
+*   🔥 **[learnpythonserver-sm](https://github.com/gemini-dot/learnpythonserver-sm)**: Dự án nền tảng về cấu trúc web, hỗ trợ quản lý file và render HTML cơ bản.
+*   🛡️ **[DropVault](https://github.com/gemini-dot/DropVault)**: Bản nâng cấp mạnh mẽ từ *learnpythonserver-sm*, tập trung tối ưu hiệu suất và thắt chặt các lớp bảo mật.
+
+---
+
+### 📫 Kết nối với tui
+
+- **Email:** `samvasang1192011@gmail.com`
+- **Facebook:** [Lại Văn Sâm](https://www.facebook.com/cu.sam.801505)
+- **Alias:** `NONE`
+
+---
+
+*Cảm ơn ông đã ghé thăm profile của tui!* :)
