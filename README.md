@@ -1,37 +1,31 @@
-# Hi there, I'm Lại Văn Sâm (NONE) 👋 
+# Hi, tui là {Tên/Nickname} :)
 
-### 🚀 A 15-year-old Full-stack Developer & Security Enthusiast from Vietnam
+> {A 15-year-old Full-stack Developer & Security Enthusiast from Vietnam}
 
-- 🎓 I'm currently a 9th-grade student (Class of 2026).
-- 💻 I love building scalable web applications and exploring server security.
-- 🐧 My daily driver is **Ubuntu**, and I'm a fan of extreme software optimization (ricing).
-- 🛡️ Currently learning: **Web Penetration Testing** (Metasploit, Kali Linux).
-- 🛠️ Currently building: **VAULT** - A large-scale file management system (>30k lines of code).
+## Về tui
+- 🎯 Hiện tại: {Đang học backend, cybersecurity, an ninh mạng, ...}
+- 💻 Quan tâm: {Web / Linux / Security / AI / Game / ...}
+- 📚 Mục tiêu 2026: {Làm được 1 web có tính bảo mật cao}
+- 🧠 Tính cách học: {thích làm project nhỏ, học từ lỗi sai, kỷ luật...}
+- 🌱 Đang học: {Python, C++, Git, Ubuntu, Backend, Github, ...}
 
----
+## Kỹ năng / Công nghệ
+**Ngôn ngữ:** {Python / C++ / JavaScript / Lua /...}  
+**Công cụ:** {Git, Linux (Ubuntu, Kali), VS Code, ...}  
+**Khác:** {SQL, Docker, Arduino, Mongodb, ...}
 
-### 🛠 Languages & Tools:
+## Dự án nổi bật
+- 🔥 **{learnpythonserver-sm}** — {Dự án học tập về cấu trúc web, có chức năng upload file, xem file, xem html 1 cách cơ bản.}  
+  Link: {https://github.com/gemini-dot/learnpythonserver-sm}
+- ⚡ **{DropVault}** — {Kế thừa từ dự án learnpythonserver-sm nhưng hướng về các tính năng bảo mật, cải thiện hiệu suất web.}  
+  Link: {https://github.com/gemini-dot/DropVault}
 
-- **Backend:** Python (Flask), Node.js (JavaScript).
-- **Database:** MySQL, MariaDB, MongoDB.
-- **Tools:** Metasploit, Nmap, Docker, Git.
-- **Platform:** Microsoft Azure, Linux Server.
-
----
-
-### 📊 GitHub Stats:
-
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
-
----
-
-### 🌟 Fun Fact:
-- I've been using Ubuntu for server management because Windows just doesn't feel right for coding. :)
-- Anime fan: *Doraemon*, *Attack on Titan*, and *Makeine*.
+## Liên hệ
+- Email: {samvasang1192011@gmail.com}
+- Facebook/Zalo: {https://www.facebook.com/cu.sam.801505}
+- Website/Blog: {None}
 
 ---
 
-### 📫 How to reach me:
-- **Location:** Yen Thanh, Nghe An, Vietnam.
-- **Alias:** NONE
+### Ghi chú nhỏ
+- Viết ít thôi nhưng thật, nhìn sẽ “chất” hơn.
